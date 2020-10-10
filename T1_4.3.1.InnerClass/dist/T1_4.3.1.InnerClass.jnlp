@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="T1_4.3.1.InnerClass.jnlp">
+  <information>
+    <title>T1_4.3.1.InnerClass</title>
+    <vendor>aldob</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="T1_4.3.1.InnerClass.jar" size="3494" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="T1_4.3.1.InnerClass" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="controlcircle.ControlCircle"  name="T1_4.3.1.InnerClass" />
+  <update check="always"/>
+</jnlp>
